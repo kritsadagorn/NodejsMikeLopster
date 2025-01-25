@@ -190,12 +190,6 @@ The server will start at `http://localhost:8000`.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
-
 ## Acknowledgments
 
 Special thanks to [MikeLopster](https://www.youtube.com/@MikeLopster) for the tutorial inspiration!
